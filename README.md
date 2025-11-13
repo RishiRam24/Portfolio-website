@@ -18,14 +18,14 @@ Key Skills & Technologies
 - Windows and Linux system administration  
 - Network security basics  
 - Hardware diagnostics and troubleshooting  
-- User support in lab environments using ticketing systems  
+- User support in lab environments  
 - Documentation of technical processes and solutions  
 
 
 Repository Contents  
 The folders and files included illustrate:
 
-Ethernet Cable RJ45.docx** – A detailed guide I created on wiring and testing Ethernet connections.  
-Windows Troubleshooting Portfolios.docx** – Documentation of lab exercises where I diagnosed and resolved system issues.  
-Creation of Virtual Network and Subnet.docx** – Demonstrates applied work on setting up virtual networks and subnets.  
-Other practice files** – Additional labs and projects (e.g., Azure CLI, Azure IoT, Storage Accounts) that reflect my proactive learning and hands‑on training.
+Ethernet Cable RJ45.docx – A detailed guide I created on wiring and testing Ethernet connections.  
+Windows Troubleshooting Portfolios.docx – Documentation of lab exercises where I diagnosed and resolved system issues.  
+Creation of Virtual Network and Subnet.docx – Demonstrates applied work on setting up virtual networks and subnets.  
+Other practice files– Additional labs and projects (e.g., Azure CLI, Azure IoT, Storage Accounts) that reflect my proactive learning and hands‑on training.
